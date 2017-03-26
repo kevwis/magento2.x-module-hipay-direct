@@ -1,0 +1,19 @@
+{
+    "name": "kevwis/module-hipay-direct",
+    "description": "Magento 2.x HiPay Direct Payment Method",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Kev WIS",
+            "email": "contact@kevwis.com"
+        }
+    ],
+    "require": {},
+    "repositories": {
+        "kevwis": {
+            "type": "composer",
+            "url": "https://repos.kevwis.com/magento2.x"
+        }
+    }
+}
