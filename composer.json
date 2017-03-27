@@ -3,7 +3,7 @@
     "description": "Magento 2.x HiPay Direct Payment Method",
     "require": {
         "php": "~5.6.5|7.0.2|7.0.4|~7.0.6",
-        "magento/module-sales": "101.1.*",
+        "magento/module-sales": "100.1.*",
         "magento/module-quote": "100.1.*",
         "magento/module-payment": "100.1.*"
     },
